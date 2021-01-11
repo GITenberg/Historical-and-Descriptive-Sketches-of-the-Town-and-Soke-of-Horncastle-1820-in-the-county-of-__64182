@@ -1,11 +1,16 @@
 _repo: Historical-and-Descriptive-Sketches-of-the-Town-and-Soke-of-Horncastle-1820-in-the-county-of-__64182
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 64182-h/images/cover.jpg
 creator:
   author:
     agent_name: Weir, George
     gutenberg_agent_id: '51895'
     url: http://www.gutenberg.org/2009/agents/51895
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64182#Historical-and-Descriptive-Sketches-of-the-Town-and-Soke-of-Horncastle-1820-in-the-county-of-_
 gutenberg_issued: '2020-12-31'
 gutenberg_type: Text
 identifiers:
